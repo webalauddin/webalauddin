@@ -9,7 +9,6 @@ Skills: Android apps development / Java / Android Studio / HTML / CSS / Wordpres
 - 🌱 I’m currently learning Java Programming Language 
 
 
-[<img src='https://cdn.bdnews24.com/bdnews24/media/bangla/imgAll/2024November/garlic-211124-1732188824.jpg' alt='facebook' height='40'>](https://www.facebook.com/webAalauddin)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webalauddin)](https://github.com/anuraghazra/github-readme-stats)
 
