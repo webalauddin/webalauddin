@@ -3,7 +3,16 @@
 
 My name is Alauddin. I am Bangladeshi. I am an Android apps Developer with Android Studio. I have been 3 years of experience in Android apps Development. I am a student of (Bongo Academy) in Bangladesh. My educational background is BBA(Bachelor of Business Administration).
 
-Skills: Android apps development / Java OOP / mySQL / JSON / PHP / Firebase Authentications / Android Studio / HTML / CSS / Wordpress
+✅ Skills: 
+======================================
+✔ Java OOP
+✔ JSON
+✔ mySQL
+✔ PHP
+✔ Firebase Authentications
+✔ HTML
+✔ CSS
+✔ Wordpress
 
 - 🌱 I’m currently learning Java Programming Language 
 
